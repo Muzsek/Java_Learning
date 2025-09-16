@@ -10,7 +10,7 @@ public class Main {
                 /*atlag*/ 3.5
         );
         Diak diak2 = new Diak(
-                /*nev*/ "Bien",
+                /*nev*/ "Teréz",
                 /*eletkor*/ 9,
                 /*atlag*/ 4.1
         );
